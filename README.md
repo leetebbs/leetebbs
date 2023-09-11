@@ -11,6 +11,7 @@
 ##  My Journey as a Web3 Developer: Navigating the Decentralized World 💬
 
 In the ever-evolving realm of web development, I find my true calling in the world of Web3 technologies. 
+
 I'm Lee, a developer who combines various tools and technologies to craft decentralized applications that redefine the boundaries of the internet.
 
 </br>
