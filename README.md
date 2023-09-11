@@ -1,9 +1,9 @@
 
 ## Hi 👋 I'm Lee
 
-<div align="center">
+<!-- <div align="center">
 <img height="200" alt="PNG" align="center" src="./assets/Tebbo (2).png">
-</div>
+</div> -->
   
 </br>
 </br>
