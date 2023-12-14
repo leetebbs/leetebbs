@@ -8,4 +8,5 @@
 </br>
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ipfs,react,nodejs,solidity,vscode,raspberrypi)](https://skillicons.dev)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=solidity,react,ipfs,js,html,css,nodejs,vscode,raspberrypi)](https://skillicons.dev)
