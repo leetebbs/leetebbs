@@ -17,4 +17,4 @@
 
 ## My Dev Card
 
-<a href="https://app.daily.dev/tebbo"><img src="https://api.daily.dev/devcards/d7b5bc31482a47b38f33e21dbc386650.png?r=8ga" width="250" alt="lee tebbs's Dev Card"/></a>
+<a href="https://app.daily.dev/tebbo"><img src="https://api.daily.dev/devcards/v2/QDa1MeoFQvnccdvd8UrR6.png?type=default&r=q6w" width="250" alt="lee tebbs's Dev Card"/></a>
